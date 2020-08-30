@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73ed3701-ea14-40a4-9335-3e40f26260b1" name="Default Changelist" comment="" />
+    <list default="true" id="73ed3701-ea14-40a4-9335-3e40f26260b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/response.html" beforeDir="false" afterPath="$PROJECT_DIR$/response.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1gl4qtyVlsbHLUQqxje0VoExn7u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +55,8 @@
       <option name="presentableId" value="Default" />
       <updated>1598676041289</updated>
       <workItem from="1598676042981" duration="11625000" />
-      <workItem from="1598761782221" duration="12385000" />
+      <workItem from="1598761782221" duration="13021000" />
+      <workItem from="1598794677192" duration="88000" />
     </task>
     <servers />
   </component>
@@ -60,21 +68,21 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="350" y="88" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1598767898792" />
-    <state width="1366" height="188" key="GridCell.Tab.0.bottom" timestamp="1598767881478">
+    <state width="1366" height="188" key="GridCell.Tab.0.bottom" timestamp="1598794524004">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1366" height="188" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1598767881478" />
-    <state width="1366" height="188" key="GridCell.Tab.0.center" timestamp="1598767881478">
+    <state width="1366" height="188" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1598794524004" />
+    <state width="1366" height="188" key="GridCell.Tab.0.center" timestamp="1598794524004">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1366" height="188" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1598767881478" />
-    <state width="1366" height="188" key="GridCell.Tab.0.left" timestamp="1598767881477">
+    <state width="1366" height="188" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1598794524004" />
+    <state width="1366" height="188" key="GridCell.Tab.0.left" timestamp="1598794524003">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1366" height="188" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1598767881477" />
-    <state width="1366" height="188" key="GridCell.Tab.0.right" timestamp="1598767881478">
+    <state width="1366" height="188" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1598794524003" />
+    <state width="1366" height="188" key="GridCell.Tab.0.right" timestamp="1598794524004">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1366" height="188" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1598767881478" />
+    <state width="1366" height="188" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1598794524004" />
   </component>
 </project>

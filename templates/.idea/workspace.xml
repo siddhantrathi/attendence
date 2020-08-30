@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73ed3701-ea14-40a4-9335-3e40f26260b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gl4qtyVlsbHLUQqxje0VoExn7u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73ed3701-ea14-40a4-9335-3e40f26260b1" name="Default Changelist" comment="" />
+      <created>1598676041289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598676041289</updated>
+      <workItem from="1598676042981" duration="11625000" />
+      <workItem from="1598761782221" duration="12385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="350" y="88" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598767898792">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="350" y="88" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1598767898792" />
+    <state width="1366" height="188" key="GridCell.Tab.0.bottom" timestamp="1598767881478">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="188" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1598767881478" />
+    <state width="1366" height="188" key="GridCell.Tab.0.center" timestamp="1598767881478">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="188" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1598767881478" />
+    <state width="1366" height="188" key="GridCell.Tab.0.left" timestamp="1598767881477">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="188" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1598767881477" />
+    <state width="1366" height="188" key="GridCell.Tab.0.right" timestamp="1598767881478">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1366" height="188" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1598767881478" />
+  </component>
+</project>
